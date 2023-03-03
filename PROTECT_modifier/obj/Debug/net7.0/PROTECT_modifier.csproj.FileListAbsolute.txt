@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/bin/Debug/net7.0/PROTECT_modifier
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/bin/Debug/net7.0/PROTECT_modifier.deps.json
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/bin/Debug/net7.0/PROTECT_modifier.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/bin/Debug/net7.0/PROTECT_modifier.dll
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/bin/Debug/net7.0/PROTECT_modifier.pdb
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.dll
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/refint/PROTECT_modifier.dll
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.pdb
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/PROTECT_modifier.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/PROTECT_modifier/obj/Debug/net7.0/ref/PROTECT_modifier.dll
